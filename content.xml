@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026042716132737XCGM</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026042716132718Y4Z4</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Historias Cercanas: Descubrimos y Compartimos Biografías</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Daniel Carrión Espada</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje dirigida a alumnado de 6º de Educación Primaria en la que se estudian y elaboran diferentes tipos de textos, entre ellos la biografía, apoyados en la competencia digital.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777200397581</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>4059a069-b7bb-45aa-928f-8d4d7373f710</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Portada</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>4059a069-b7bb-45aa-928f-8d4d7373f710</odePageId>
+      <odeBlockId>block-1777200436917-gwmoi3bv5</odeBlockId>
+      <blockName>Historias Cercanas: Descubrimos y Compartimos Biografías</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>4059a069-b7bb-45aa-928f-8d4d7373f710</odePageId>
+          <odeBlockId>block-1777200436917-gwmoi3bv5</odeBlockId>
+          <odeIdeviceId>idevice-1777200436915-r1lvgbpbz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/alexas_fotos-book-of-life-718654_1920.jpg" width="1366" height="908" alt="" />
+<figcaption class="figcaption"><a href="https://pixabay.com/es/users/alexas_fotos-686414/" class="author" target="_blank" rel="noopener">Alexas_Fotos</a>. <a href="https://pixabay.com/es/illustrations/biograf%c3%ada-estilo-de-vida-906281/" class="title" target="_blank" rel="noopener"><em>https://pixabay.com/es/illustrations/biograf%c3%ada-estilo-de-vida-906281/</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">De uso gratuito bajo la Licencia de contenido de Pixabay</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Cada persona tiene una historia única que merece ser contada; al conocer su biografía, aprendemos no solo sobre su vida, sino también sobre el mundo que la rodea.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777200436915-r1lvgbpbz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/alexas_fotos-book-of-life-718654_1920.jpg\" width=\"1366\" height=\"908\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/users/alexas_fotos-686414/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Alexas_Fotos</a>. <a href=\"https://pixabay.com/es/illustrations/biograf%c3%ada-estilo-de-vida-906281/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>https://pixabay.com/es/illustrations/biograf%c3%ada-estilo-de-vida-906281/</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">De uso gratuito bajo la Licencia de contenido de Pixabay</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Cada persona tiene una historia única que merece ser contada; al conocer su biografía, aprendemos no solo sobre su vida, sino también sobre el mundo que la rodea.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777200781859-rg2c3gv1k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777200781859-rg2c3gv1k</odePageId>
+      <odeBlockId>block-1777201661461-glf07jidt</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777200781859-rg2c3gv1k</odePageId>
+          <odeBlockId>block-1777201661461-glf07jidt</odeBlockId>
+          <odeIdeviceId>idevice-1777201661459-tdf3xutti</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-tabs">
+<h2 style="text-align: justify;">1. Centro de interés o temática</h2>
+<p style="text-align: justify;">El proyecto se centra en la elaboración de una biografía de una persona importante del entorno cercano del alumnado (familiares, amigos, vecinos, etc.), realizada en trabajo cooperativo.</p>
+<h2 style="text-align: justify;">2. Nivel al que va dirigido</h2>
+<p style="text-align: justify;">6º Primaria</p>
+<h2 style="text-align: justify;">3. Temporalización aproximada</h2>
+<p style="text-align: justify;">Duración estimada: 2 semanas (6–8 sesiones aproximadamente)</p>
+<p style="text-align: justify;">Sesión 1: Presentación del proyecto, formación de grupos y elección de la persona<br />Sesión 2–3: Preparación de preguntas y recogida de información (entrevista)<br />Sesión 4–5: Redacción conjunta de la biografía<br />Sesión 6: Creación del formato digital (presentación sencilla en grupo)<br />Sesión 7–8: Exposición en clase y puesta en común<br /></p>
+<h2 style="text-align: justify;">4. Materias implicadas</h2>
+<p style="text-align: justify;">Lengua Castellana y Literatura (expresión escrita y oral)<br />Ciencias Sociales (comprensión del entorno y del paso del tiempo)<br />Competencia Digital (uso básico de herramientas digitales)<br />Educación en Valores Cívicos y Éticos (empatía, respeto y trabajo en equipo)</p>
+<h2 style="text-align: justify;">5. Descripción general del proyecto</h2>
+<p style="text-align: justify;">Este proyecto tiene como objetivo que el alumnado aprenda a investigar, organizar información, trabajar en equipo y comunicarla de manera clara y creativa, a través de la elaboración de una biografía.</p>
+<p style="text-align: justify;">El trabajo se realizará en pequeños grupos, donde cada equipo elegirá a una persona importante de su entorno cercano. El alumnado preparará de forma conjunta una entrevista para conocer mejor su vida (infancia, experiencias, trabajo, momentos importantes, etc.).</p>
+<p style="text-align: justify;">Cada miembro del grupo asumirá un rol (por ejemplo: entrevistador, redactor, organizador de la información, encargado digital), fomentando la responsabilidad compartida. Con la información recogida, el grupo elaborará una biografía sencilla, bien estructurada y adaptada a su nivel.</p>
+<p style="text-align: justify;">Posteriormente, transformarán el contenido en una presentación digital básica que compartirán con sus compañeros. Finalmente, realizarán una exposición oral en grupo, desarrollando habilidades comunicativas y de cooperación.</p>
+<p><br /></p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777201661459-tdf3xutti","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2 style=\"text-align: justify;\">1. Centro de interés o temática</h2>\n<p style=\"text-align: justify;\">El proyecto se centra en la elaboración de una biografía de una persona importante del entorno cercano del alumnado (familiares, amigos, vecinos, etc.), realizada en trabajo cooperativo.</p>\n<h2 style=\"text-align: justify;\">2. Nivel al que va dirigido</h2>\n<p style=\"text-align: justify;\">6º Primaria</p>\n<h2 style=\"text-align: justify;\">3. Temporalización aproximada</h2>\n<p style=\"text-align: justify;\">Duración estimada: 2 semanas (6–8 sesiones aproximadamente)</p>\n<p style=\"text-align: justify;\">Sesión 1: Presentación del proyecto, formación de grupos y elección de la persona<br />Sesión 2–3: Preparación de preguntas y recogida de información (entrevista)<br />Sesión 4–5: Redacción conjunta de la biografía<br />Sesión 6: Creación del formato digital (presentación sencilla en grupo)<br />Sesión 7–8: Exposición en clase y puesta en común<br /></p>\n<h2 style=\"text-align: justify;\">4. Materias implicadas</h2>\n<p style=\"text-align: justify;\">Lengua Castellana y Literatura (expresión escrita y oral)<br />Ciencias Sociales (comprensión del entorno y del paso del tiempo)<br />Competencia Digital (uso básico de herramientas digitales)<br />Educación en Valores Cívicos y Éticos (empatía, respeto y trabajo en equipo)</p>\n<h2 style=\"text-align: justify;\">5. Descripción general del proyecto</h2>\n<p style=\"text-align: justify;\">Este proyecto tiene como objetivo que el alumnado aprenda a investigar, organizar información, trabajar en equipo y comunicarla de manera clara y creativa, a través de la elaboración de una biografía.</p>\n<p style=\"text-align: justify;\">El trabajo se realizará en pequeños grupos, donde cada equipo elegirá a una persona importante de su entorno cercano. El alumnado preparará de forma conjunta una entrevista para conocer mejor su vida (infancia, experiencias, trabajo, momentos importantes, etc.).</p>\n<p style=\"text-align: justify;\">Cada miembro del grupo asumirá un rol (por ejemplo: entrevistador, redactor, organizador de la información, encargado digital), fomentando la responsabilidad compartida. Con la información recogida, el grupo elaborará una biografía sencilla, bien estructurada y adaptada a su nivel.</p>\n<p style=\"text-align: justify;\">Posteriormente, transformarán el contenido en una presentación digital básica que compartirán con sus compañeros. Finalmente, realizarán una exposición oral en grupo, desarrollando habilidades comunicativas y de cooperación.</p>\n<p><br /></p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777202223457-i69azamj8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777202223457-i69azamj8</odePageId>
+      <odeBlockId>block-1777202257697-s8py2ixry</odeBlockId>
+      <blockName>Protección de datos</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777202223457-i69azamj8</odePageId>
+          <odeBlockId>block-1777202257697-s8py2ixry</odeBlockId>
+          <odeIdeviceId>idevice-1777202257691-f4aorc8it</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Hoy en día usamos internet para aprender, jugar y comunicarnos, pero es importante hacerlo de forma responsable. . También tenemos derechos digitales, que nos ayudan a usar la tecnología de manera segura y respetuosa. Es fundamental pensar antes de compartir información, comprobar si es verdadera y respetar la de los demás. </p>
+<p><a href="https://canva.link/754f4qi9g4prqdh" title="">https://canva.link/754f4qi9g4prqdh</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777202257691-f4aorc8it","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Hoy en día usamos internet para aprender, jugar y comunicarnos, pero es importante hacerlo de forma responsable. . También tenemos derechos digitales, que nos ayudan a usar la tecnología de manera segura y respetuosa. Es fundamental pensar antes de compartir información, comprobar si es verdadera y respetar la de los demás. </p>\n<p><a href=\"https://canva.link/754f4qi9g4prqdh\" title=\"\">https://canva.link/754f4qi9g4prqdh</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777203101118-wm7b9w0ma</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777203101118-wm7b9w0ma</odePageId>
+      <odeBlockId>block-1777203111681-rf8q2uv8a</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777203101118-wm7b9w0ma</odePageId>
+          <odeBlockId>block-1777203111681-rf8q2uv8a</odeBlockId>
+          <odeIdeviceId>idevice-1777203111678-iycza9mhv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El producto final para mi curso de 6º en el área de Lengua será la creación de un portfolio digital en el que el alumnado irá guardando diferentes textos escritos como unas biografías de personas importantes de su entorno. </p>
+<p style="text-align: justify;">Para realizarlo, podrán utilizar dos herramientas: LibreOffice o Google Documentos. He elegido estas dos opciones porque, aunque son bastante parecidas, Google Documentos es más fácil de usar y permite guardar el trabajo automáticamente en internet, mientras que LibreOffice es más sencillo y funciona sin necesidad de conexión.</p>
+<p style="text-align: justify;">El uso del procesador de textos tiene como objetivo que el alumnado aprenda a escribir correctamente en formato digital. Además, podrán utilizar herramientas para mejorar la presentación de sus textos, como la negrita, la cursiva, cambiar el tamaño de la letra o añadir color.</p>
+<p style="text-align: justify;">Hoy en día, escribir en ordenador es lo más usado, por lo que es importante que adquieran estas habilidades. También aprenderán a ajustar márgenes, usar el tabulador y manejar otras funciones básicas que les serán útiles para trabajos en el futuro.</p>
+<p style="text-align: justify;">Por último, el centro cuenta con un aula de informática y varios carros con portátiles, lo que facilita el desarrollo de este tipo de actividades en clase.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777203111678-iycza9mhv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El producto final para mi curso de 6º en el área de Lengua será la creación de un portfolio digital en el que el alumnado irá guardando diferentes textos escritos como unas biografías de personas importantes de su entorno. </p>\n<p style=\"text-align: justify;\">Para realizarlo, podrán utilizar dos herramientas: LibreOffice o Google Documentos. He elegido estas dos opciones porque, aunque son bastante parecidas, Google Documentos es más fácil de usar y permite guardar el trabajo automáticamente en internet, mientras que LibreOffice es más sencillo y funciona sin necesidad de conexión.</p>\n<p style=\"text-align: justify;\">El uso del procesador de textos tiene como objetivo que el alumnado aprenda a escribir correctamente en formato digital. Además, podrán utilizar herramientas para mejorar la presentación de sus textos, como la negrita, la cursiva, cambiar el tamaño de la letra o añadir color.</p>\n<p style=\"text-align: justify;\">Hoy en día, escribir en ordenador es lo más usado, por lo que es importante que adquieran estas habilidades. También aprenderán a ajustar márgenes, usar el tabulador y manejar otras funciones básicas que les serán útiles para trabajos en el futuro.</p>\n<p style=\"text-align: justify;\">Por último, el centro cuenta con un aula de informática y varios carros con portátiles, lo que facilita el desarrollo de este tipo de actividades en clase.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777206973775-8staljz6l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777206973775-8staljz6l</odePageId>
+      <odeBlockId>block-1777206980391-ebws84i0l</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777206973775-8staljz6l</odePageId>
+          <odeBlockId>block-1777206980391-ebws84i0l</odeBlockId>
+          <odeIdeviceId>idevice-1777206980384-4vq4g8weg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Recursos para el profesorado</p>
+<p><a href="https://www.symbaloo.com/mix/edu5-de-primaria" title="">https://www.symbaloo.com/mix/edu5-de-primaria</a></p>
+<p>Recursos para el alumnado</p>
+<p><a href="https://padlet.com/dcaresp744/mi-sandbox-encantador-3j459ol7wl6411y9" title="">https://padlet.com/dcaresp744/mi-sandbox-encantador-3j459ol7wl6411y9</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777206980384-4vq4g8weg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Recursos para el profesorado</p>\n<p><a href=\"https://www.symbaloo.com/mix/edu5-de-primaria\" title=\"\">https://www.symbaloo.com/mix/edu5-de-primaria</a></p>\n<p>Recursos para el alumnado</p>\n<p><a href=\"https://padlet.com/dcaresp744/mi-sandbox-encantador-3j459ol7wl6411y9\" title=\"\">https://padlet.com/dcaresp744/mi-sandbox-encantador-3j459ol7wl6411y9</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777207108665-mul84oc71</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777207108665-mul84oc71</odePageId>
+      <odeBlockId>block-1777207113046-fyjzq6d8b</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777207108665-mul84oc71</odePageId>
+          <odeBlockId>block-1777207113046-fyjzq6d8b</odeBlockId>
+          <odeIdeviceId>idevice-1777207113041-rle0rhpms</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 400px;"><img src="{{context_path}}/content/resources/quilia-zFSo6bnZJTw-unsplash.jpg" width="400" height="266" alt="" />
+<figcaption class="figcaption"><a href="https://unsplash.com/es/@heyquilia" class="author" target="_blank" rel="noopener">Quilia </a>. <a href="https://unsplash.com/es/fotos/hombre-y-mujer-sentados-en-sillas-zFSo6bnZJTw" class="title" target="_blank" rel="noopener"><em>https://unsplash.com/es/fotos/hombre-y-mujer-sentados-en-sillas-zFSo6bnZJTw</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">Uso gratuito bajo la Licencia Unsplash</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p><a href="https://canva.link/3153jdbl3v492dm" title="">https://canva.link/3153jdbl3v492dm</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777207113041-rle0rhpms","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 400px;\"><img src=\"{{context_path}}/content/resources/quilia-zFSo6bnZJTw-unsplash.jpg\" width=\"400\" height=\"266\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://unsplash.com/es/@heyquilia\" class=\"author\" target=\"_blank\" rel=\"noopener\">Quilia </a>. <a href=\"https://unsplash.com/es/fotos/hombre-y-mujer-sentados-en-sillas-zFSo6bnZJTw\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>https://unsplash.com/es/fotos/hombre-y-mujer-sentados-en-sillas-zFSo6bnZJTw</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Uso gratuito bajo la Licencia Unsplash</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p><a href=\"https://canva.link/3153jdbl3v492dm\" title=\"\">https://canva.link/3153jdbl3v492dm</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777207307252-v1ubteyle</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777207307252-v1ubteyle</odePageId>
+      <odeBlockId>block-1777207312087-tml75xvbq</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777207307252-v1ubteyle</odePageId>
+          <odeBlockId>block-1777207312087-tml75xvbq</odeBlockId>
+          <odeIdeviceId>idevice-1777207312086-1x93alhu6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Rúbrica</p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+<p>Diana de autoevaluación</p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+<p></p>
+<p><a href="https://docs.google.com/document/d/14DC_UaBXn3NbCjp34g9u6MCbsfaQf3gEXiu_JZ6_rT4/edit?usp=sharing" title="">https://docs.google.com/document/d/14DC_UaBXn3NbCjp34g9u6MCbsfaQf3gEXiu_JZ6_rT4/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777207312086-1x93alhu6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Rúbrica</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p>Diana de autoevaluación</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>\n<p></p>\n<p><a href=\"https://docs.google.com/document/d/14DC_UaBXn3NbCjp34g9u6MCbsfaQf3gEXiu_JZ6_rT4/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/14DC_UaBXn3NbCjp34g9u6MCbsfaQf3gEXiu_JZ6_rT4/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208031644-d6fxwqhx8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208031644-d6fxwqhx8</odePageId>
+      <odeBlockId>block-1777208037427-imglwoix0</odeBlockId>
+      <blockName>Relación de tareas con los criterios de evaluación</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208031644-d6fxwqhx8</odePageId>
+          <odeBlockId>block-1777208037427-imglwoix0</odeBlockId>
+          <odeIdeviceId>idevice-1777208037423-61f022s59</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1xUlTcrCaqqdzR9YKWJOS35CM9CF4_VyPwnogs6LK7RE/edit?usp=sharing" title="">Relación de criterios de evaluación</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777208037423-61f022s59","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1xUlTcrCaqqdzR9YKWJOS35CM9CF4_VyPwnogs6LK7RE/edit?usp=sharing\" title=\"\">Relación de criterios de evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208465692-yrrpt3yvm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208465692-yrrpt3yvm</odePageId>
+      <odeBlockId>block-1777209631445-9ec1ck5fr</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208465692-yrrpt3yvm</odePageId>
+          <odeBlockId>block-1777209631445-9ec1ck5fr</odeBlockId>
+          <odeIdeviceId>idevice-1777209631439-l2eq7wwq4</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Historias Cercanas: Descubrimos y Compartimos Biografías</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje dirigida a alumnado de 6º de Educación Primaria en la que se estudian y elaboran diferentes tipos de textos, entre ellos la biografía, apoyados en la competencia digital.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Daniel Carrión Espada</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
